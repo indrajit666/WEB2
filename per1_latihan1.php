@@ -1,5 +1,3 @@
-# WEB2
-PERT1_LATIHAN1
 <?php
 $A = 123 ; // variable global
 function Test() {
